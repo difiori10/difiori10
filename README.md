@@ -19,4 +19,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=difiori10&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difiori10&layout=compact&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difiori10&layout=compact&theme=radical)](https://github.com/difiori10/github-readme-stats)
